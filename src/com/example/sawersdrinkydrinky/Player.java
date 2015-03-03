@@ -1,5 +1,6 @@
 package com.example.sawersdrinkydrinky;
 
+//EvanSchallerer was here
 public class Player {
 	
 	public String name;
