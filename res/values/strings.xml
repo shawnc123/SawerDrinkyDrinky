@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sawer\'s drinky drinky</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Drink!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="newline">dsfasf sfdsfsfds /n  adsfadsf</string>
+    <string name="begin">Begin!</string>
+    <string name="title_activity_enter_players">EnterPlayers</string>
+    <string name="enterPlayerName">Enter Player Name</string>
+    <string name="title_activity_game">Game</string>
+
+    <string-array name="questions">
+        <item>What was floating in the air at the beginning of the movie?</item>
+        <item>How long did Forrest run?</item>
+        <item>Who was the love of Forrest Gump\'s life?</item>
+        <item>What was the name of the hurricane Forrest\'s boat survived?</item>
+        <item>After defeating North Korea at ping-pong, which president did Forrest meet?</item>
+        <item>Who were they always looking for in Vietnam?</item>
+        <item>Jenny and Forrest went together like which fruit and root?</item>
+        <item>Forrest pulled five boys out of the ambush in Vietnam; who were they?</item>
+        <item>What were the names of the two students being integrated into the college of Alabama?</item>
+        <item>What was Lt. Dan\'s last name?</item>
+        <item>What hotel did Forrest stay at when he met Nixon?</item>
+        <item>Who did Forrest and Bubba meet when first arrived in vietnam?</item>
+        <item>What was Bubba\'s full name?</item>
+        <item>What did Forrest say to JFK?</item>
+        <item>After being selected to the all American Football Team, which president did Forrest meet?</item>
+        <item>What did Forrest do to the President when he received the Medal of Honor?</item>
+        <item>What was the name of Forrest\'s shrimping business?</item>
+        <item>Who was Forrest\'s football coach?</item>
+        <item>What was Lt. Dan\'s family\'s claim to fame?</item>
+        <item>Who did Forrest Gump have more money than?</item>
+        <item>Who was Forrest\'s first mate on the shrimp boat?</item>
+        <item>How long did Forrest go to college?</item>
+        <item>What brand of shoes did Forrest wear?</item>
+        <item>How many ways to make shrimp did Bubba mention in the movie?</item>
+        <item>What pictures were in the restroom when he met JFK?</item>
+        <item>Which president awarded Forrest with the Medal of Honor?</item>
+        <item>Who did Jenny hang out with in D.C.?</item>
+        <item>What new year were Forrest and Lt. Dan celebrating?</item>
+        <item>How long did it rain in Vietnam?</item>
+        <item>Why did Jenny get kicked out of college?</item>
+        <item>What did Jenny do in Memphis?</item>
+        <item>What was Forrest\'s favorite book?</item>
+        <item>Where was Forrest shot?</item>
+        <item>What town in Alabama did Forrest live?</item>
+        <item>What young musician was inspired by young Forrest\'s dancing?</item>
+        <item>Who did Forrest meet on the bus to boot camp?</item>
+        <item>Where did Jenny and Forrest reunite in D.C.?</item>
+        <item>What was Jenny\'s stage name?</item>
+        <item>What did Forrest\'s mama call his first pair of shoes?</item>
+        <item>What famous musician was on the Dick Cavett show with Forrest?</item>
+        <item>What was Forrest\'s football jersey number for Alabama?</item>
+        <item>What river was Forrest crossing when Jenny saw him running across the country on TV?</item>
+        <item>What did Forrest say when he stopped running?</item>
+        <item>What televesion show did Forrest appear on agter he won the ping-pong championship?</item>
+        <item>What was the name of the school bus driver?</item>
+        <item>When Forrest met JFK he drank what kind of soda? How many did he drink?</item>
+        <item>How many presidents did Forrest meet in the movie?</item>
+        <item>What did Jenny pray to turn into?</item>
+        <item>What was the name of Forrest\'s first boat?</item>
+        <item>What sport did Forrest learn to play while recovering from his battle wound?</item>
+        <item>Who did Jenny want to sing like when she was in college?</item>
+        <item>What country did Forrest defeat to become the world ping-pong champion?</item>
+        <item>What advice did Jenny give to Forrest before he left for Vietnam?</item>
+        <item>What was the only good thing about getting shot in the buttocks?</item>
+    </string-array>
+    
+    <string-array name="answers">
+        <item>Ebola</item>
+        <item>3 years, 2 months, 14 days, and 16 hours</item>
+        <item>Jenny</item>
+        <item>Carmen</item>
+        <item>Richard M. Nixon</item>
+        <item>Charlie</item>
+        <item>Peas and carrots</item>
+        <item>Lt. Dan, Bubba, Tex, Dallas, and Cleveland</item>
+        <item>Vivian Malone and Jimmy Hood</item>
+        <item>Taylor</item>
+        <item>The Watergate</item>
+        <item>Lt. Dan</item>
+        <item>Benjamin Buford Blue</item>
+        <item>"I got to pee"</item>
+        <item>President John F. Kennedy</item>
+        <item>He showed the president his buttocks</item>
+        <item>Bubba Gump Shrimp Co.</item>
+        <item>Coach Paul \'Bear\' Bryant</item>
+        <item>One member of his family had fought and died in every U.S. war</item>
+        <item>Davy Crockett</item>
+        <item> Lt. Dan</item>
+        <item>5 Years</item>
+        <item>Nikes</item>
+        <item>21</item>
+        <item>Marilyn Monroe (alone) and Bobby Kennedy with JFk</item>
+        <item>President Lyndon B. Johnson</item>
+        <item>The Black Panthers</item>
+        <item>1972</item>
+        <item>4 months</item>
+        <item>She posed in Playboy with her letter sweater</item>
+        <item>She was topless in a nightclusb</item>
+        <item>Curious George</item>
+        <item>In the Buttocks, on the right side</item>
+        <item>Greenbow</item>
+        <item>Elvis Presley</item>
+        <item>Bubba</item>
+        <item>The reflecting pool</item>
+        <item>Bobbi Dylan</item>
+        <item>His dancin\' shoes</item>
+        <item>John Lennon</item>
+        <item>44</item>
+        <item>The Mississippi</item>
+        <item>"I am pretty tired, I think I'll go home now"</item>
+        <item>The Dick Cavett Show</item>
+        <item>Dorothy Harris</item>
+        <item>Dr. Pepper, 15</item>
+        <item>3</item>
+        <item>A Goldfish</item>
+        <item>Jenny</item>
+        <item>Ping-pong</item>
+        <item>Joan Baez</item>
+        <item>China</item>
+        <item>"Don\'t be brave, just run away"</item>
+        <item>All the ice cream you could eat</item>
+    </string-array>
+    
+   </resources>
+
